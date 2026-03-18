@@ -1,1 +1,5 @@
-#exercicio1
+# Feito exercicio teste
+
+print("teste de exercicio")
+
+
